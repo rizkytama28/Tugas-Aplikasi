@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\bin\Debug\CalculatorWindowss.exe.config
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\bin\Debug\CalculatorWindowss.exe
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\bin\Debug\CalculatorWindowss.pdb
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.Form1.resources
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.Properties.Resources.resources
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.exe
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindowss\obj\Debug\CalculatorWindowss.pdb

@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.exe
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.deps.json
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.runtimeconfig.json
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.dll
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\bin\Debug\netcoreapp3.1\CalculatorWindows.pdb
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.dll
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.pdb
+C:\Users\Asus\source\repos\CalculatorApp\CalculatorWindows\obj\Debug\netcoreapp3.1\CalculatorWindows.genruntimeconfig.cache
