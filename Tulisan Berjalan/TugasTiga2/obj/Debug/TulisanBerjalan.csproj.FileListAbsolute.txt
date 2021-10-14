@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.frmTulisanBerjalan.resources
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.exe
+C:\Users\Asus\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.pdb

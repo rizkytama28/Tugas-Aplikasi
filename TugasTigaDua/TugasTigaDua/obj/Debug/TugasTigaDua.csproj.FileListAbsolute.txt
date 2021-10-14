@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\bin\Debug\TugasTigaDua.exe.config
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\bin\Debug\TugasTigaDua.exe
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\bin\Debug\TugasTigaDua.pdb
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.Form1.resources
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.Properties.Resources.resources
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.exe
+C:\Users\Asus\source\repos\TugasTigaDua\TugasTigaDua\obj\Debug\TugasTigaDua.pdb
